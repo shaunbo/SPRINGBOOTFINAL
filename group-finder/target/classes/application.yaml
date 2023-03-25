@@ -1,0 +1,5 @@
+spring:
+ datasource:
+  password: groupfinder
+  username: groupfinder
+  url: jdbc:mysql://localhost:3306/groupfinder
